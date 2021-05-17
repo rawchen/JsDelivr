@@ -1,2 +1,4 @@
 # JsDelivr
-https://cdn.jsdelivr.net/gh/yoyling/JsDelivr/static/favicon.png
+https://cdn.jsdelivr.net/gh/rawchen/JsDelivr/cover.jpg
+
+![](https://cdn.jsdelivr.net/gh/rawchen/JsDelivr/cover.jpg)
